@@ -23,3 +23,15 @@ This repository contains an algorithm developed in Python for evaluating moistur
 
 1. Clone this repository to your local machine using the google colaboratory file which is provided in the file as "Moisture Damage Evaluation.ipynb"
 
+## Datasets
+The algorithm has been tested on the following datasets:
+
+FRL5
+FRL10
+IL5
+IL10
+IL15
+VG40new
+These datasets consist of sample images of asphalt mixtures before and after moisture exposure, representing different moisture damage levels.
+
+
