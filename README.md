@@ -26,12 +26,12 @@ This repository contains an algorithm developed in Python for evaluating moistur
 ## Datasets
 The algorithm has been tested on the following datasets:
 
-FRL5
-FRL10
-IL5
-IL10
-IL15
-VG40new
+- FRL5
+- FRL10
+- IL5
+- IL10
+- IL15
+- VG40new
 These datasets consist of sample images of asphalt mixtures before and after moisture exposure, representing different moisture damage levels.
 
 
