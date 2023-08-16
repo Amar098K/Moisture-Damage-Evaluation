@@ -33,6 +33,6 @@ The algorithm has been tested on the following datasets:
 - IL15
 - VG40new
   
-These datasets consist of sample images of asphalt mixtures before and after moisture exposure, representing different moisture damage levels.
+These datasets consist of sample images of asphalt mixtures after moisture exposure, representing different moisture damage levels.
 
 
